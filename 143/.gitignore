@@ -1,0 +1,3 @@
+/.direnv/
+/class/*
+!/class/student-dist.tar.gz

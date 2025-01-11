@@ -1,0 +1,3 @@
+#!/bin/sh
+MYSPIM_PATH=`dirname $0`
+spim -trap_file $MYSPIM_PATH/../lib/trap.handler $*
